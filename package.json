@@ -1,0 +1,20 @@
+{
+  "name": "@tanx-009/stxle-css",
+  "version": "0.0.1",
+  "description": "Opinionated method to style using [utopia](https://utopia.fyi).",
+  "homepage": "https://github.com/TanX-009/stxle-css#readme",
+  "bugs": {
+    "url": "https://github.com/TanX-009/stxle-css/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanX-009/stxle-css.git"
+  },
+  "license": "MIT",
+  "author": "Tanmay Muley",
+  "type": "commonjs",
+  "main": "globals.css",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r src/* dist/"
+  }
+}
