@@ -14,9 +14,6 @@
   "author": "Tanmay Muley",
   "type": "commonjs",
   "main": "index.css",
-  "files": [
-    "dist/index.css"
-  ],
   "scripts": {
     "build": "mkdir -p dist && cat src/*.css > index.css"
   }
