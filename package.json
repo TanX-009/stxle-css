@@ -1,6 +1,6 @@
 {
   "name": "@tanx-009/stxle-css",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Opinionated method to style using [utopia](https://utopia.fyi).",
   "homepage": "https://github.com/TanX-009/stxle-css#readme",
   "bugs": {
@@ -18,7 +18,6 @@
     "dist/index.css"
   ],
   "scripts": {
-    "build": "mkdir -p dist && cat src/*.css > index.css",
-    "prepublishOnly": "npm run build"
+    "build": "mkdir -p dist && cat src/*.css > index.css"
   }
 }
