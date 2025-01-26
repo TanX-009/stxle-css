@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: center;
 
-  border: var(--border) solid transparent;
+  border: var(--border) solid var(--outline);
   outline: none;
   border-radius: var(--radius);
 
