@@ -38,7 +38,7 @@
   align-items: center;
   justify-content: center;
 
-  border: var(--border) solid transparent;
+  border: var(--border) solid var(--outline);
   outline: none;
   border-radius: var(--radius);
 
@@ -50,7 +50,7 @@
 
 .loClick:hover {
   background: inherit;
-  border: var(--border) solid var(--primaryContainer);
+  border: var(--border) solid var(--outlineVariant);
 }
 
 .loClick:active {
@@ -60,7 +60,7 @@
 .panel {
   width: inherit;
   height: inherit;
-  border: var(--border) solid var(--primaryContainer);
+  border: var(--border) solid var(--outline);
   border-radius: var(--radius);
   background: var(--onPrimary);
 }
@@ -70,7 +70,7 @@
 
   font-size: inherit;
 
-  border: var(--border) solid var(--primary);
+  border: var(--border) solid var(--outline);
   outline: none;
   border-radius: var(--radius);
 
