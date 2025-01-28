@@ -1,6 +1,6 @@
 {
   "name": "@tanx-009/stxle-css",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Opinionated method to style using [utopia](https://utopia.fyi).",
   "homepage": "https://github.com/TanX-009/stxle-css#readme",
   "bugs": {
