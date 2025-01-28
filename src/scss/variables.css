@@ -7,6 +7,7 @@
 
   --radius: var(--sp-2xs-xs);
   --border: calc(var(--sp-6xs) / 2);
-  --accesiblity-border: calc(var(--sp-6xs) / 2);
+  /* Accessibility border */
+  --a11y-border: calc(var(--sp-6xs) / 2);
   --lib-border: calc(var(--sp-6xs) / 2);
 }

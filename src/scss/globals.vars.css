@@ -8,7 +8,7 @@
   justify-content: center;
 
   border: var(--lib-border) solid var(--onSurface);
-  outline: var(--accesibility-border) solid var(--onSurface);
+  outline: var(--a11y-border) solid var(--onSurface);
   border-radius: var(--radius);
 
   background: var(--primary);
@@ -38,7 +38,7 @@
   justify-content: center;
 
   border: var(--lib-border) solid var(--onSurface);
-  outline: var(--accesibility-border) solid var(--onSurface);
+  outline: var(--a11y-border) solid var(--onSurface);
   border-radius: var(--radius);
 
   background: var(--surfaceContainerHigh);
@@ -75,7 +75,7 @@
   font-size: inherit;
 
   border: var(--lib-border) solid var(--onSurface);
-  outline: var(--accesibility-border) solid var(--onSurface);
+  outline: var(--a11y-border) solid var(--onSurface);
   border-radius: var(--radius);
 
   background: var(--surface);
