@@ -1,7 +1,10 @@
 .hiClick {
+  height: fit-content;
+
   padding: var(--sp-3xs);
 
   font-size: inherit;
+  text-decoration: none;
 
   display: flex;
   align-items: center;
@@ -34,9 +37,12 @@
 }
 
 .loClick {
+  height: fit-content;
+
   padding: var(--sp-3xs);
 
   font-size: inherit;
+  text-decoration: none;
 
   display: flex;
   align-items: center;
